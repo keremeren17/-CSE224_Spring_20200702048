@@ -36,7 +36,7 @@ CSE224 - Spring 2025
 
 Student ID: 20200702048
 
-Begüm Hamarat 
+Begüm Hamarat (https://github.com/begumhamarat)
 
 CSE224 - Spring 2025
 
