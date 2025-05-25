@@ -1,0 +1,15 @@
+%Warning-PINMISSING: /openlane/designs/project3_openlane/seven_seg_counter/Top.v:21:25: Cell has missing pin: 'value'
+   21 |     SevenSegmentDisplay display (
+      |                         ^~~~~~~
+                     ... For warning description see https://verilator.org/warn/PINMISSING?v=5.018
+                     ... Use "/* verilator lint_off PINMISSING */" and lint_on around source to disable this message.
+%Warning-PINMISSING: /openlane/designs/project3_openlane/seven_seg_counter/Top.v:21:25: Cell has missing pin: 'seg'
+   21 |     SevenSegmentDisplay display (
+      |                         ^~~~~~~
+%Error-PINNOTFOUND: /openlane/designs/project3_openlane/seven_seg_counter/Top.v:22:10: Pin not found: 'binary_input'
+   22 |         .binary_input(display_in),
+      |          ^~~~~~~~~~~~
+%Error-PINNOTFOUND: /openlane/designs/project3_openlane/seven_seg_counter/Top.v:23:10: Pin not found: 'segments'
+   23 |         .segments(segments)
+      |          ^~~~~~~~
+%Error: Exiting due to 2 error(s)

@@ -1,0 +1,6 @@
+%Warning-WIDTHEXPAND: /openlane/designs/project3_openlane/seven_seg_counter/Top.v:14:10: Output port connection 'count' expects 4 bits on the pin connection, but pin connection's VARREF 'count' generates 3 bits.
+                                                                                       : ... note: In instance 'Top'
+   14 |         .count(count)
+      |          ^~~~~
+                      ... For warning description see https://verilator.org/warn/WIDTHEXPAND?v=5.018
+                      ... Use "/* verilator lint_off WIDTHEXPAND */" and lint_on around source to disable this message.

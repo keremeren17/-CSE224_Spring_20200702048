@@ -1,0 +1,7 @@
+%Error: /openlane/designs/project3_openlane/seven_seg_counter/SevenSegmentDisplay.v:8:11: Can't find definition of variable: 'value'
+    8 |     case (value)
+      |           ^~~~~
+%Error: /openlane/designs/project3_openlane/seven_seg_counter/SevenSegmentDisplay.v:9:15: Can't find definition of variable: 'seg'
+    9 |         4'd0: seg = 7'b1000000;
+      |               ^~~
+%Error: Exiting due to 2 error(s)
