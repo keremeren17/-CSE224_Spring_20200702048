@@ -1,5 +1,5 @@
-# CSE224 Spring 2024 - ASIC Design Projects  
-This repository contains three OpenLane-based ASIC design projects completed as part of the CSE224 course during Spring 2024.
+# CSE224 Spring 2025 - ASIC Design Projects  
+This repository contains three OpenLane-based ASIC design projects completed as part of the CSE224 course during Spring 2025.
 
 ## 🧠 Overview of Projects
 
@@ -30,12 +30,16 @@ The folder `project1_openlane/twos_complement/` reflects the same design, struct
 ---
 
 ## ✍ Authors
-Kerem Eren            
-CSE224 - Spring 2024  
+Kerem Eren
+
+CSE224 - Spring 2025
+
 Student ID: 20200702048
 
 Begüm Hamarat 
-CSE224 - Spring 2024
+
+CSE224 - Spring 2025
+
 Student ID: 20210702111
 
 > Both students equally contributed to all three projects.  
