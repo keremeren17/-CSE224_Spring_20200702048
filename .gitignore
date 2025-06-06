@@ -1,0 +1,9 @@
+# OpenLane çıktı ve derleme klasörleri
+project4_register_alu/RUN*/
+project5_TopCPU/RUN*/
+project6_TopModule/RUN*/
+
+# Geçici dosyalar, log ve benzeri
+*.log
+*.jou
+*.tmp
